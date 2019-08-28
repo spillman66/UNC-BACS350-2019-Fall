@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="http://shrinking-world.com/static/images/unc/favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://shrinking-world.com/static/css/unc.css?time=">
+    <link rel="stylesheet" href="https://shrinking-world.com/static/css/unc.css">
 
 </head>
 
@@ -23,7 +23,7 @@
                 </div>
                 <div class="logo col-sm-4">
                     <div class="pull-right">
-                        <img class="img-rounded img-responsive" src="http://shrinking-world.com/static/images/unc/Bear.200.png" alt="UNC Bear" width="150px">
+                        <img class="img-rounded img-responsive" src="https://shrinking-world.com/static/images/unc/Bear.200.png" alt="UNC Bear" width="150px">
                     </div>
                 </div>
             </div>
@@ -36,9 +36,9 @@
 
 
     <footer>
-        <a href="http://shrinking-world.com">
+        <a href="https://shrinking-world.com">
             <div class="logo-text">Copyright &copy; 2019 Shrinking World</div>
-            <img class="img-rounded img-responsive" src="http://shrinking-world.com/static/images/SWS_Globe_small.jpg" alt="Shrinking World Solutions" width="150px">
+            <img class="img-rounded img-responsive" src="https://shrinking-world.com/static/images/SWS_Globe_small.jpg" alt="Shrinking World Solutions" width="150px">
         </a>
     </footer>
 
