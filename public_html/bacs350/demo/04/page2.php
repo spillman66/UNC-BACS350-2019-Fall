@@ -16,7 +16,9 @@
         <meta charset="UTF-8">
         <title><?php echo $site_title; ?></title>
 
-        <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/x-icon" href="http://shrinking-world.com/static/images/unc/favicon.ico">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://shrinking-world.com/static/css/unc.css">
 
     </head>
     <body>
