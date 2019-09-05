@@ -24,18 +24,24 @@
         
         <ul>
             <li>
-                <a href="demo">Code Demos</a>
+                <a href="01">Lesson #1 - PHP App Hosting</a>
             </li>
             <li>
-                <a href="pattern">Design Patterns</a>
+                <a href="02">Lesson #2 - Includes</a>
             </li>
             <li>
-                <a href="project">Projects</a>
+                <a href="03">Lesson #3 - Header/Footer</a>
+            </li>
+            <li>
+                <a href="04">Lesson #4 - Page Template</a>
+            </li>
+            <li>
+                <a href="05">Lesson #5 - Render Page</a>
             </li>
         </ul>
     ';
 
-    include 'views.php';
+    include '../views.php';
     
     echo render_page($site_title, $page_title, $content);
 

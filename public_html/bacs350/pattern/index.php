@@ -6,31 +6,29 @@
 
     $site_title = 'UNC BACS 350';
     
-    $page_title = "Mark's Brain";
+    $page_title = "Design Patterns";
     
     $content = '
+    
         <p>
             <a href='..'>Home</a>
         </p>
         <p> 
-            This page is the beginning of an ongoing project in BACS 350.
-        </p>
-        <p> 
-            It is a custom information manager.
-        </p>
-        <p> 
-            Different rooms within this PHP app will contain different types of info.
+            Design patterns learned in BACS 350.
         </p>
         
         <ul>
             <li>
-                <a href="demo">Code Demos</a>
+                <a href="include">Include Pattern</a>
             </li>
             <li>
-                <a href="pattern">Design Patterns</a>
+                <a href="header">Header/Footer Pattern</a>
             </li>
             <li>
-                <a href="project">Projects</a>
+                <a href="page_template">Page Template Pattern</a>
+            </li>
+            <li>
+                <a href="render_page">Render Page Pattern</a>
             </li>
         </ul>
     ';
