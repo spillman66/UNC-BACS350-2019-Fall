@@ -10,7 +10,7 @@
     
     $content = '
         <p>
-            <a href='..'>Home</a>
+            <a href="..">Home</a>
         </p>
         <p> 
             This page is the beginning of an ongoing project in BACS 350.

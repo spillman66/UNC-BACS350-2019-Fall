@@ -10,7 +10,7 @@
     
     $content = '
         <p>
-            <a href='..'>Home</a>
+            <a href="..">Home</a>
         </p>
         <p> 
             Projects in BACS 350.
@@ -18,15 +18,15 @@
         
         <ul>
             <li>
-                <a href="project/01">Project #1 - Setup Web Hosting</a>
+                <a href="01">Project #1 - Setup Web Hosting</a>
             </li>
             <li>
-                <a href="project/02">Project #2 - Page Template</a>
+                <a href="02">Project #2 - Page Template</a>
             </li>
         </ul>
     ';
 
-    include 'views.php';
+    include '../views.php';
     
     echo render_page($site_title, $page_title, $content);
 

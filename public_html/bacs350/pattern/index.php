@@ -11,7 +11,7 @@
     $content = '
     
         <p>
-            <a href='..'>Home</a>
+            <a href="..">Home</a>
         </p>
         <p> 
             Design patterns learned in BACS 350.
@@ -33,7 +33,7 @@
         </ul>
     ';
 
-    include 'views.php';
+    include '../views.php';
     
     echo render_page($site_title, $page_title, $content);
 
