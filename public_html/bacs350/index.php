@@ -4,16 +4,16 @@
         Create page content by rendering a template.
     */
 
-    $site_title = 'UNC BACS 350';
+    $site_title = 'Project 2';
     
-    $page_title = "Mark's Brain";
+    $page_title = "Madi's Project";
     
     $content = '
         <p>
             <a href="..">Home</a>
         </p>
         <p> 
-            This page is the beginning of an ongoing project in BACS 350.
+            This is my page for project 2! I am not sure where to go from here...
         </p>
         <p> 
             It is a custom information manager.
